@@ -1,0 +1,8 @@
+{
+  "properties": [
+    {
+      "name": "sample.rabbitmq.exchange",
+      "type": "java.lang.String",
+      "description": "Description for sample.rabbitmq.exchange."
+  }
+] }
